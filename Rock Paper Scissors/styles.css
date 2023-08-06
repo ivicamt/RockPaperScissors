@@ -1,0 +1,39 @@
+* {
+    background-color: #567a8f;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+
+.game {
+    display: flex;
+    justify-content: center;
+    color: #eadfec;
+    margin: 20px;
+    margin-bottom: 50px;
+    font-size: 50px;
+
+}
+.header {
+    display: flex;
+    justify-content: center;
+    color: #eadfec;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.result {
+    display: flex;
+    justify-content: space-around;
+    color: #d2e2cf;
+    margin: 10px;
+    padding: 10px;
+    margin-top: 40px;
+    font-size: 30px;
+}
